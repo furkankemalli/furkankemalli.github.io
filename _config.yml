@@ -1,11 +1,11 @@
 # Site settings
-title: alper şanlı 
+title: Alper Şanlı 
 description: Resume Website
 baseurl: "/newweb" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: alper şanlı
+username: Alper Şanlı
 user_description: BS, Mechanical Engineering & MSc, Aeronautics and Space Technologies
 user_title: engineer
 email: alpersanli16@gmail.com
