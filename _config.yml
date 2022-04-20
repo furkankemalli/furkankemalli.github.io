@@ -1,15 +1,15 @@
 # Site settings
-title: Alper Şanlı 
+title: Mehmet Furkan Kemallı 
 description: Resume Website
 baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Alper Şanlı
+username: Furkan Kemallı
 user_description: 
 user_title: engineer
-email: alpersanli16@gmail.com
-github_username: alpersanli
+email: kemalli.furkan@gmail.com
+github_username: furkankemalli
 
 # Google-analytics
 google-analytics:
