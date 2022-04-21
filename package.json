@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Alper Sanli",
+  "author": "Mehmet Furkan Kemallı",
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.26.3",
